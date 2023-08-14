@@ -13,7 +13,7 @@ const Header = () => {
 			</Link>
 			<div className="flex flex-row gap-8">
 				<a
-					href="https://github.com/bgwebagency/redesigner.io"
+					href="https://github.com/HHuzaifa/ReDesginer-Next.js-Replicate-AI"
 					target="_blank"
 					rel="noreferrer"
 					className="hover:opacity-50 transition duration-150"

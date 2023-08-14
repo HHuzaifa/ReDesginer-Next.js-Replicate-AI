@@ -14,7 +14,7 @@ const Footer = () => {
 	return (
 		<footer className="flex justify-between md:justify-center md:gap-16 mt-20 mb-4">
 			<a
-				href="https://twitter.com/kirankdash"
+				href="https://twitter.com/Hooha_riddle"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
@@ -22,17 +22,9 @@ const Footer = () => {
 			>
 				<AiFillTwitterCircle size={20} />
 			</a>
+			
 			<a
-				href="https://discord.gg/62VR3MMCVm"
-				target="_blank"
-				rel="noreferrer"
-				className="hover:opacity-50 transition duration-150"
-				aria-label="Discord"
-			>
-				<FaDiscord size={20} />
-			</a>
-			<a
-				href="https://www.youtube.com/@bgwebagency"
+				href="https://www.youtube.com/channel/UCL1Caim1QkW_0D_RNMZK0gQ"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
@@ -41,25 +33,17 @@ const Footer = () => {
 				<AiFillYoutube size={20} />
 			</a>
 			<a
-				href="https://bgwebagency.in"
+				href="https://maverick-mav.vercel.app/"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
-				aria-label="BG Web Agency website"
+				aria-label="Maverick"
 			>
 				<TbWorldWww size={20} />
 			</a>
+			
 			<a
-				href="https://www.tiktok.com/@bgwebagency"
-				target="_blank"
-				rel="noreferrer"
-				className="hover:opacity-50 transition duration-150"
-				aria-label="Tiktok"
-			>
-				<BsTiktok size={20} />
-			</a>
-			<a
-				href="https://www.instagram.com/bgwebagency/"
+				href="https://www.instagram.com/h_k_riddle/"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
@@ -68,7 +52,7 @@ const Footer = () => {
 				<AiFillInstagram size={20} />
 			</a>
 			<a
-				href="https://www.linkedin.com/in/kiran-dash/"
+				href="https://www.linkedin.com/in/huzaifa-hk/"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
